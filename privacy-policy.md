@@ -17,9 +17,10 @@ Dy Developers also uses third party service providers in our application that co
     * [Crashlytics Privacy Policy](http://try.crashlytics.com/terms/privacy-policy.pdf)
 * [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
 * [Amazon Web Services](https://aws.amazon.com/privacy/)
+* [Google Analytics](https://support.google.com/analytics/answer/6004245)
 
 ### How We Use Your Information
-Dy Developers uses the information we collect and the information collected by the third parties listed above to provide and improve the functionality in the applications, websites and services that we develop. This includes logging analytic events using Firebase Analytics, logging crash events using Crashlytics, serving advertisments using AdMob and storing the information we collect in Amazon Web Services. We also use local storage on your device to save data required for our applications to function, such as transit departure time data and user saved stops.
+Dy Developers uses the information we collect and the information collected by the third parties listed above to provide and improve the functionality in the applications, websites and services that we develop. This includes logging analytic events using Firebase Analytics, logging crash events using Crashlytics, serving advertisements using AdMob and storing the information we collect in Amazon Web Services. We also use local storage on your device to save data required for our applications to function, such as transit departure time data and user saved stops.
 
 ### Data Deletion and Opt-Out
 Since Dy Developers collects data anonymously and does not collect any personally identifiable data, there is no way for us to identify which data is yours and delete it. To delete your data or opt-out of collection from the third party service providers we use, please refer to their respective privacy policies.
